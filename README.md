@@ -10,3 +10,5 @@ The following python packages are required to run the code:
 numpy
 scipy
 pandas
+
+The main python script will be uploaded soon.
